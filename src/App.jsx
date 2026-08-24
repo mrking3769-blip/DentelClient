@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { db } from "./Firebase";
+import { db } from "./firebase";
 
 import DoctorDashboard from "./DoctorDashboard";
 import ReceptionDisplay from "./ReceptionDisplay";
